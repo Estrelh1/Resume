@@ -1,17 +1,5 @@
-# resume
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Online Resume</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f5f5f5;
-      margin: 0;
-      padding: 0;
-      color: #333;
+# Resume
+
     }
 
     header {
@@ -58,9 +46,11 @@
   <section class="experience">
     <h2>Work Experience</h2>
     <div>
-      <h3>Company XYZ</h3>
-      <p>Web Developer | June 2022 - Present</p>
-      <p>Responsibilities and achievements...</p>
+      <h3>Mircrosoft</h3>
+      <p>Research Intern | June 2022 - Present</p>
+      <p>Conducting literature reviews and staying updated on relevant research.
+Collaborating with researchers on experiments, data analysis, and project development.
+Contributing to the design and implementation of research experiments or projects.</p>
     </div>
     <!-- Add more experience sections as needed -->
   </section>
@@ -68,8 +58,8 @@
   <section class="education">
     <h2>Education</h2>
     <div>
-      <h3>University ABC</h3>
-      <p>Bachelor of Science in Computer Science | Graduated May 2022</p>
+      <h3>University of California, Irvine</h3>
+      <p>Bachelor of Arts in Public Health Policy | Expected Graduation June 2025 </p>
     </div>
     <!-- Add more education sections as needed -->
   </section>
