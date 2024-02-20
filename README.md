@@ -49,7 +49,6 @@ as restocking or reorganizing products.</p>
 <footer>
     &copy; 2024 Estrella Huerta - Online Resume
   </footer>
-</body>
-</html>
+
 
 
