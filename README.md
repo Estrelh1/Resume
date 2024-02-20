@@ -5,7 +5,7 @@
       <section class= "professional summary">
     <h2>Professional Summary</h2>
     <div>
-    <p>Organized and dependable candidate successful at managing multiple priorities with a positive attitude.
+    <p>Organized and dependable candidate successfully managing multiple priorities with a positive attitude.
 Willingness to take on added responsibilities to meet team goals. Proactive and caring worker with
 communication strengths and good observational skills. Skillfully handles day-to-day activities while
 looking for opportunities to make a difference.</p>
@@ -14,6 +14,7 @@ looking for opportunities to make a difference.</p>
     <div>
       <h3>University of California, Irvine -Irvine, CA</h3>
       <p>Bachelor of Arts: Public Health Policy | Expected Graduation June 2025 </p>
+<p> Minor in Health Infirmatics</p>
       <p>GPA 3.8</p>
       <p>- Sigma Pi Alpha Sorority President 2023-2024</p>
       <p>- Public Hleath Association Member</p>
@@ -30,7 +31,7 @@ looking for opportunities to make a difference.</p>
       <p>Research Intern | June 2023 - Present</p>
       <p>-Conducting literature reviews and staying updated on relevant research.</p>
 <p>-Collaborating with researchers on experiments, data analysis, and project development.</p>
-<p>-Contributing to the design and implementation of research experiments or projects.</p>
+<p>-Contributing to designing and implementing research experiments or projects.</p>
 <h3>Sunglass Hut</h3>
 <p>Retail Sales Associate | June 2022- September 2022</p>
 <p> -Monitored sales floor and merchandise displays for presentable condition, taking corrective action such
