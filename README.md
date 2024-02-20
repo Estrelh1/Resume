@@ -1,4 +1,4 @@
-<body>
+
 
   <header>
     <h1>Estrella Huerta</h1>
