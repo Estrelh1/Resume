@@ -1,6 +1,6 @@
 # Resume
 
-  </style>
+
 </head>
 <body>
 
@@ -22,8 +22,7 @@ looking for opportunities to make a difference.</p>
       <p>- Sigma Pi Alpha Sorority President 2023-2024</p>
       <p>- Public Hleath Association Member</p>
 
-    <div>
-      <h3>Wallis Annenberg High School- Los Angeles, CA</h3>
+  <h3>Wallis Annenberg High School- Los Angeles, CA</h3>
       <p>High School Diploma | Graduated June 2021 </p>
       <p>GPA 3.8 (unweighted)</p>
       <p>-Ecalera S.T.E.M. Program</p>
